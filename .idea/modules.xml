@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="project_final_lambton/app" />
+      <module fileurl="file://$PROJECT_DIR$/project_final_lambton.iml" filepath="$PROJECT_DIR$/project_final_lambton.iml" group="project_final_lambton" />
+    </modules>
+  </component>
+</project>
